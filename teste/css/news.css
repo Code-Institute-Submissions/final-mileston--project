@@ -127,6 +127,6 @@ background-size: cover;
   background-color: purple;
 }
 #botao:hover{
-  color:#FFB6C1;
+  color:rgba(10, 2, 227, 1);
   background-color:white;
 }
